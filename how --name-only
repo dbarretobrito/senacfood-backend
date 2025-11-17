@@ -1,0 +1,66 @@
+* [33m812b44a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Document integration with Groq Cloud API
+*   [33m6577d03[m Merge pull request #15 from MiguelMartini/integracaoIA
+[32m|[m[33m\[m  
+[32m|[m * [33m61fe42d[m Feat: Integracao com modelos de IA
+[32m|[m[32m/[m  
+*   [33mdf61b6c[m Merge pull request #14 from MiguelMartini/Refactor
+[34m|[m[35m\[m  
+[34m|[m * [33m5985301[m Refactor: Melhoria nas respostas JSON
+[34m|[m[34m/[m  
+*   [33m06ac893[m Merge pull request #13 from MiguelMartini/Refactor
+[36m|[m[1;31m\[m  
+[36m|[m * [33ma2f2e50[m Fix: Rota show de receitas funcionando
+[36m|[m[36m/[m  
+*   [33mc0aaa53[m Merge pull request #12 from MiguelMartini/Favoritos
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mb0cc54c[m Feat: Sistema de Receitas favoritas
+* [1;33m|[m   [33md336bfc[m Merge pull request #11 from MiguelMartini/Refactor
+[1;33m|[m[1;35m\[m [1;33m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m   
+[1;33m|[m * [33m32c0a29[m Refactor: Receita nao necessita de categoria
+[1;33m|[m[1;33m/[m  
+*   [33mb87b398[m Merge pull request #10 from MiguelMartini/Refactor
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33mea01824[m Refactor: Correcao do .env.example
+[1;36m|[m * [33mdf8ae46[m Fix: Configuracao de erros API
+[1;36m|[m[1;36m/[m  
+* [33me42dec0[m Fix repository URL and update setup steps
+* [33mc9adb1f[m Update README with project overview
+*   [33m9d58411[m Merge pull request #9 from MiguelMartini/Autenticacao
+[32m|[m[33m\[m  
+[32m|[m * [33mecd9817[m[33m ([m[1;31morigin/Autenticacao[m[33m)[m Feat: Logout Function
+[32m|[m[32m/[m  
+*   [33mff4c659[m Merge pull request #8 from MiguelMartini/ingredientes
+[34m|[m[35m\[m  
+[34m|[m * [33maecf3a5[m[33m ([m[1;31morigin/ingredientes[m[33m)[m Feat: CRUD de ingredientes
+[34m|[m[34m/[m  
+*   [33md696eae[m Merge pull request #7 from MiguelMartini/Receitas
+[36m|[m[1;31m\[m  
+[36m|[m * [33mb785f5b[m[33m ([m[1;31morigin/Receitas[m[33m)[m Feat: CRUD de receitas
+[36m|[m[36m/[m  
+*   [33mfee3642[m Merge pull request #6 from MiguelMartini/Categorias
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33me1dff88[m[33m ([m[1;31morigin/Categorias[m[33m)[m Feat: CRUD de categorias
+[1;32m|[m[1;32m/[m  
+*   [33m3cb9061[m Merge pull request #5 from MiguelMartini/Refactor
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m2d28526[m[33m ([m[1;31morigin/Refactor[m[33m)[m Refactor: Atualizando models e Migrations
+[1;34m|[m[1;34m/[m  
+*   [33mb65d780[m Merge pull request #4 from MiguelMartini/Receitas
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m7f17d71[m Feat: CRUD Receitas
+[1;36m|[m[1;36m/[m  
+*   [33m6848263[m Merge pull request #3 from MiguelMartini/Users
+[32m|[m[33m\[m  
+[32m|[m * [33me1ade83[m[33m ([m[1;31morigin/Users[m[33m)[m Feat: CRUD Users
+[32m|[m[32m/[m  
+*   [33me7c557e[m Merge pull request #2 from MiguelMartini/Autenticacao
+[34m|[m[35m\[m  
+[34m|[m * [33m916a5b8[m Feat: Autenticacao de usuarios no sistema
+[34m|[m[34m/[m  
+*   [33m8bdd87f[m Merge pull request #1 from MiguelMartini/UserAuth
+[36m|[m[1;31m\[m  
+[36m|[m * [33mc420d1e[m[33m ([m[1;31morigin/UserAuth[m[33m)[m Feat: Registro de usuarios
+[36m|[m[36m/[m  
+* [33md826bc8[m Primeiro commit
